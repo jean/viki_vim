@@ -88,7 +88,7 @@ Requirements:
                                                     *viki-related-plugins*
 Optional enhancements:
 - vikitasks (vimscript #2894): Distributed TODO lists
-- hookcursormoved (vimscript #2037): Enhanced detection of hyperlinks to 
+- hookcursormoved (vimscript #2037): Enhanced detection of hyperlinks to
   nonexistent destinations.
 - vxfold (vimscript #3004): Provides org-mode like fold cycling
 - VOoM (vimscript #2657): A two-pane outliner with support for viki
