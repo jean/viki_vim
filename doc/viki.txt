@@ -54,7 +54,7 @@ looks like:
 
 And some wikis provide tools for translating this markup to other formats 
 (like viki does in the form of the "deplate" program, which can translate viki 
-markup to LaTeX, HTML, and Docbook).  Unfortunately, just about every wiki has
+markup to LaTeX, HTML, and Docbook). Unfortunately, just about every wiki has 
 its own markup. 
 
                                                     *viki-support*
